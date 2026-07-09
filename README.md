@@ -30,7 +30,8 @@ The stakeholders would like to know:
 ---
 
 ## ⚙️ Methodology
-- **Data Source**: Hospital discharge records (structured in SQL tables).  
+- **Data Source**: Hospital discharge records.  
+- **Dataset**: [Hospital Admissions Data (Kaggle)](https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data/data?select=HDHI+Admission+data.csv)  
 - **Tools Used**: SQL Server / MySQL, Power BI (optional for visualization).  
 - **Approach**:
   - Write SQL queries to calculate totals, averages, and distributions.
