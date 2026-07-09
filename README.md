@@ -1,1 +1,10 @@
 # AutoCareHospital
+
+## Business Questions
+### You are a data analyst for AutoCare Hospital; your stakeholders would like to know the following from their data:
+•	Total Discharges, 
+•	Average daily discharge rate, 
+•	Average Length of Stay,
+•	Distribution of discharges by Age group 
+•	Distribution of discharges by Gender Discharges 
+•	Distribution of discharges by day of the week
